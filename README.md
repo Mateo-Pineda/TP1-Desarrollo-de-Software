@@ -58,7 +58,7 @@ Formulario con campos para ingresar datos:
 
 ## Estilos
 
-El archivo CSS proporciona estilos básicos para:
+El estilado proporcionado a las tablas fueron:
 - Bordes de la tabla y celdas.
 - Estilo del texto en celdas específicas de la tabla.
 
